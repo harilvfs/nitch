@@ -41,6 +41,12 @@ why `nim👑`? because it's fast and simple
 wget https://raw.githubusercontent.com/harilvfs/nitch/main/setup.sh && sh setup.sh
 ```
 
+> [!IMPORTANT]
+> The setup script will ask whether you want nerd font symbols.
+> If you have [Nerd Font v3+](https://www.nerdfonts.com/) installed, select `y`.
+> Otherwise select `n` to use the plain `nitchNoNerd` binary.
+> You can also grab either binary directly from the [releases](https://github.com/harilvfs/nitch/releases) page.
+
 # Usage 🪨
 ```
 nitch
