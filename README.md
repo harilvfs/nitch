@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/harilvfs/nitch/refs/heads/main/preview.png" width="350px">
+<img src="https://raw.githubusercontent.com/harilvfs/nitch/refs/heads/main/preview.png">
 
 # `NiTch`
 
