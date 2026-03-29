@@ -11,15 +11,13 @@
 
 ![Maintenance](https://shields.io/maintenance/yes/2022?style=for-the-badge)
 ![License](https://shields.io/github/license/unxsh/nitch?style=for-the-badge)
-![Commits](https://shields.io/github/commit-activity/m/unxsh/nitch?style=for-the-badge)
-
-![GitHub Repo stars](https://img.shields.io/github/stars/unxsh/nitch?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/unxsh/nitch?style=for-the-badge)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/unxsh/nitch?style=for-the-badge)
-
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/unxsh/nitch?style=for-the-badge)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/harilvfs/nitch?style=for-the-badge)
 
 </div>
+
+> [!NOTE]
+> this is just a fork of [nitch](https://github.com/ssleert/nitch) official repo to meet some of my needs. btw remember this has been abandoned years ago so no extra feature is here, you can just find the latest compiled binary in the release section. if you wanna contribute anyway and if you understand the code base you are welcome to contribute or fix anything.  
+> also this is not a fork repo to maintain it onward, this is just to meet my needs, that's it.
 
 # Description 📖
 
@@ -40,7 +38,7 @@ why `nim👑`? because it's fast and simple
 
 # Installation ☁️
 ```fish
-wget https://raw.githubusercontent.com/unxsh/nitch/main/setup.sh && sh setup.sh
+wget https://raw.githubusercontent.com/harilvfs/nitch/main/setup.sh && sh setup.sh
 ```
 
 # Usage 🪨
@@ -167,7 +165,6 @@ After that you will get a ready-made binary file in the root directory of the pr
 ```fish
 nitch
   ├── LICENSE
-  ├── nitch
   ├── nitch.nimble
   ├── README.md
   ├── src
