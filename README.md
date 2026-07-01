@@ -16,8 +16,7 @@
 </div>
 
 > [!NOTE]
-> this is just a fork of [nitch](https://github.com/ssleert/nitch) official repo to meet some of my needs. btw remember this has been abandoned years ago so no extra feature is here, you can just find the latest compiled binary in the release section. if you wanna contribute anyway and if you understand the code base you are welcome to contribute or fix anything.  
-> also this is not a fork repo to maintain it onward, this is just to meet my needs, that's it.
+> this is just a fork of [nitch](https://github.com/ssleert/nitch) official repo to meet some of my needs. btw remember this has been abandoned years ago so no extra feature is here, you can just find the latest compiled binary in the release section. this is not a fork repo to maintain it onward, this is just to meet my needs, that's it.
 
 # Description 📖
 
